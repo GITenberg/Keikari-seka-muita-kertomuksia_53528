@@ -1,0 +1,43 @@
+_repo: Keikari-seka-muita-kertomuksia_53528
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Larin-Kyösti
+    aliases:
+    - Larson, Gösta
+    - Larin-Kyosti
+    - Larson, Karl Gustaf
+    - Larson, Kaarlo Kyösti
+    - Larson, Gosta
+    - Larson, Kyösti
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '45809'
+    url: http://www.gutenberg.org/2009/agents/45809
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2016-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53528'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Swedish -- Translations into Finnish'
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- GITenberg
+tableOfContents: August Strindberg -- Keikari -- Otteluiden välillä -- Toivorikas
+  nuorukainen -- Vanha ja uusi aika -- Claris Majorum exemplis.
+title: Keikari sekä muita kertomuksia
+url: http://www.gutenberg.org/ebooks/53528
